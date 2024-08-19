@@ -3,6 +3,8 @@ The original repositry is private due to confidentiality agreements.
 # PalmVein-identification
 # The General Idea
 Palmvein recognition is a biometric authentication method that utilizes the unique vascular patterns in the human palm. Unlike fingerprints, palm vein patterns are more complex and are located beneath the skin, making them less prone to forgery.
+
+
 ![image](https://github.com/user-attachments/assets/779e3f56-e210-4077-b066-fc4acce03a66)
 
 The primary objective of this project is to develop a robust palmvein recognition system that can identify individuals based on the unique vein patterns in their palms. This system has potential applications in security, access control, and identity verification.
